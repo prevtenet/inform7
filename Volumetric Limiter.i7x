@@ -1,8 +1,8 @@
-Version 1 of Volumetric Limiter by Daniel Gaskell begins here.
+Version 2 of Volumetric Limiter by Daniel Gaskell begins here.
 
 "Containers and actor that limit their contents by volume. Modeled after Bulk Limiter by Eric Eve, but understands length, width, and height as well as total size."
 
-A volumetric size is a kind of value. 1000x1000x1000 specifies a volumetric size with parts length, width, and height.
+A volumetric size is a kind of value. 1000x1000x1000 specifies a volumetric size with parts length and width and height.
 
 A thing has a volumetric size called bulk.
 The bulk of a thing is normally 6x6x3.
